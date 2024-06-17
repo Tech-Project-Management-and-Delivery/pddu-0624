@@ -5,7 +5,7 @@ function HomePage() {
   return (
     <div className='home-page'>
       <header className='home-header'>
-        <h1>Plataforma de Dados de Utilizador</h1>
+        {/* <h1>Plataforma de Dados de Utilizador</h1> */}
         <p>
           Desenvolver uma Plataforma de Dados do utilizador que integre dados de
           várias fontes (como sistemas CRM, interações/analytics no site e
