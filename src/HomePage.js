@@ -43,12 +43,6 @@ function HomePage() {
           </p>
         </section>
       </main>
-      <footer className='home-footer'>
-        <p>
-          &copy; 2024 Plataforma de Dados de Utilizador. Todos os direitos
-          reservados.
-        </p>
-      </footer>
     </div>
   );
 }
